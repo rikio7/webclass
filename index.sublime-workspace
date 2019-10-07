@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tabl",
+				"table_content"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"address",
+				"address"
+			],
+			[
+				"phn",
+				"std_phno"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"btn",
+				"btn"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"sha",
+				"shape-margin\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ma",
+				"max\tAttr"
+			],
+			[
+				"getE",
+				"getElementByClassName"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"p",
+				"Printing"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-image\tproperty"
+			],
+			[
+				"bord",
+				"border-width\tproperty"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-shadow\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"backgr",
+				"background-attachment\tproperty"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fontsize",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"data",
+				"datalist\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/webclass/abc.html",
+		"/C/xampp/htdocs/webclass/index.html",
+		"/C/xampp/htdocs/webclass/test.php",
+		"/C/xampp/htdocs/webclass/ajaxform.html",
+		"/C/xampp/htdocs/webclass/form.html",
+		"/C/xampp/htdocs/webclass/php.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/front.html",
+		"/C/xampp/htdocs/webclass/test.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/script3.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/script2.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/stringscript.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/impscript.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/scriptprint.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/animate1.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/animate.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/position.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/overflow.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/minmum.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/CSS.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/N1.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/assignment.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/flex.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/ass.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/frame.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/image.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/margin.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/list.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/link.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/nfile.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/old.mp4",
+		"/C/Users/rocha/Desktop/photoshp/infi/only.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/order.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/file3.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/file.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/division.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/display.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/selectors.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/textshad.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/tty.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/visited.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/div.html",
+		"/C/Users/rocha/Desktop/photoshp/infi/nfile.css",
+		"/C/Users/rocha/Desktop/photoshp/infi/link.css",
+		"/C/Users/rocha/Desktop/photoshp/infi/style.css",
+		"/C/Users/rocha/Desktop/infi/N1.html",
+		"/C/Users/rocha/Desktop/infi/list.html",
+		"/C/Users/rocha/Desktop/infi/style.css",
+		"/C/Users/rocha/Desktop/infi/frame.html",
+		"/C/Users/rocha/Desktop/infi/div.html",
+		"/C/Users/rocha/Desktop/infi/ass.html",
+		"/C/Users/rocha/Desktop/infi/image.html",
+		"/C/Users/rocha/Desktop/infi/link.css",
+		"/C/Users/rocha/Desktop/infi/file3.html",
+		"/C/Users/rocha/Desktop/infi/file.html",
+		"/C/Users/rocha/Desktop/infi/nfile.html",
+		"/C/Users/rocha/Desktop/infi/tty.html",
+		"/C/Users/rocha/Desktop/infi/html.txt",
+		"/C/Users/rocha/Desktop/infi/debug.log",
+		"/C/Users/rocha/Desktop/infi/link.html",
+		"/C/Users/rocha/Desktop/infi/new.jpg",
+		"/C/Users/rocha/Desktop/infi/nfile.css",
+		"/C/Users/rocha/Desktop/link.html",
+		"/C/Users/rocha/Desktop/nfile.html",
+		"/C/Users/rocha/Desktop/style.css",
+		"/C/Users/rocha/Desktop/image.html",
+		"/C/Users/rocha/Desktop/file3.html",
+		"/C/Users/rocha/Desktop/file.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 133.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title></title>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+      <div id="div1">
+            
+      </div>
+      <script type="text/javascript">
+            function callPage(){
+                  $.ajax({
+                        url:'abc.html',
+                        type:'get',
+                        data:{
+
+                        },
+                        success:function(res){
+                              $('#div1').html(res)
+                              console.log(res)
+                        },
+                        error:function(res){
+                              console.log(res)
+
+                        }
+                  })
+            }
+            setInterval(callPage,4000)
+            callPage()
+      </script>
+</body>
+</html>
